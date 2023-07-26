@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/07/26/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Markdown Basics</title>
+      <link href="/2023/07/26/MarkdownBasics/"/>
+      <url>/2023/07/26/MarkdownBasics/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Markdown-cheat-sheet"><a href="#Markdown-cheat-sheet" class="headerlink" title="Markdown cheat sheet"></a>Markdown cheat sheet</h1><h2 id="Text-Formatting"><a href="#Text-Formatting" class="headerlink" title="Text Formatting"></a>Text Formatting</h2><p>This is how to do <strong>bold</strong> text.<br>This is how to do <em>italic</em> text.<br>You can also do <strong>bold</strong> like this.<br>You can also do <em>italic</em> like this.</p><blockquote><p>This is how to make a blockquote</p></blockquote><h2 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h2><p>For a full description of the markdown syntax, visit <a href="http://daringfireball.net/projects/markdown/syntax">this page</a></p><h2 id="Lists"><a href="#Lists" class="headerlink" title="Lists"></a>Lists</h2><p>Unordered lists:</p><ul><li>item 1</li></ul><ul><li>item 2</li></ul><ul><li>item 3</li></ul><p>Ordered lists:</p><ol><li>hello</li><li>world</li></ol><p>Nested lists</p><ul><li>a<ul><li>b</li><li>c</li></ul></li><li>d</li></ul><h2 id="Python-Code"><a href="#Python-Code" class="headerlink" title=" Python Code "></a><mark> Python Code <mark></h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hi!&quot;</span>)</span><br></pre></td></tr></table></figure><h2 id="C-Code"><a href="#C-Code" class="headerlink" title="C Code"></a>C Code</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cout</span> &lt;&lt; <span class="string">&quot;hello world&quot;</span></span><br></pre></td></tr></table></figure><h2 id="Bash-Code"><a href="#Bash-Code" class="headerlink" title="Bash Code"></a>Bash Code</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><h1 id="This-is-an-H1"><a href="#This-is-an-H1" class="headerlink" title="This is an H1"></a>This is an H1</h1><p>here’s a quote block:</p><blockquote><p>quoting…</p></blockquote><h2 id="This-is-an-H2"><a href="#This-is-an-H2" class="headerlink" title="This is an H2"></a>This is an H2</h2><p>Switching to another row only<br>requires an emplty row in between or adding two spaces in the end.</p><h3 id="This-is-an-H3"><a href="#This-is-an-H3" class="headerlink" title="This is an H3"></a>This is an H3</h3><p>&emsp;An indentation requires “&amp;emsp;”.</p><h4 id="This-is-an-H4"><a href="#This-is-an-H4" class="headerlink" title="This is an H4"></a>This is an H4</h4><p>Inserting images:</p><p><img src="/pics/test.jpg" alt="test"></p><h5 id="This-is-an-H5"><a href="#This-is-an-H5" class="headerlink" title="This is an H5"></a>This is an H5</h5><p>Adding footnot requires<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup><br>Inline footnote<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>  </p><h6 id="This-is-an-H6"><a href="#This-is-an-H6" class="headerlink" title="This is an H6"></a>This is an H6</h6><p>This is a test for width………………………………………………………………………………………………………………………………………………………………………………</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">test1</span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">test2</span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> Writing </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
