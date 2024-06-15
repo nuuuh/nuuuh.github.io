@@ -74,6 +74,19 @@
       </tags>
   </entry>
   <entry>
+    <title>OptimalTransport</title>
+    <url>/2023/07/27/OptimalTransport/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Optimal-Transport-OT"><a href="#Optimal-Transport-OT" class="headerlink" title="Optimal Transport (OT)"></a>Optimal Transport (OT)</h1><h2 id="Definition"><a href="#Definition" class="headerlink" title="Definition"></a>Definition</h2>]]></content>
+      <categories>
+        <category>Statistics</category>
+      </categories>
+      <tags>
+        <tag>Math Tools</tag>
+        <tag>Statistics</tag>
+        <tag>Optimal Transport</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown Basics</title>
     <url>/2023/07/26/MarkdownBasics/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Markdown-cheat-sheet"><a href="#Markdown-cheat-sheet" class="headerlink" title="Markdown cheat sheet"></a>Markdown cheat sheet</h1><h2 id="Text-Formatting"><a href="#Text-Formatting" class="headerlink" title="Text Formatting"></a>Text Formatting</h2><p>This is how to do <strong>bold</strong> text.<br>This is how to do <em>italic</em> text.<br>You can also do <strong>bold</strong> like this.<br>You can also do <em>italic</em> like this.</p>
@@ -125,19 +138,6 @@
       <tags>
         <tag>Markdown</tag>
         <tag>Writing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>OptimalTransport</title>
-    <url>/2023/07/27/OptimalTransport/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Optimal-Transport-OT"><a href="#Optimal-Transport-OT" class="headerlink" title="Optimal Transport (OT)"></a>Optimal Transport (OT)</h1><h2 id="Definition"><a href="#Definition" class="headerlink" title="Definition"></a>Definition</h2>]]></content>
-      <categories>
-        <category>Statistics</category>
-      </categories>
-      <tags>
-        <tag>Math Tools</tag>
-        <tag>Statistics</tag>
-        <tag>Optimal Transport</tag>
       </tags>
   </entry>
   <entry>
