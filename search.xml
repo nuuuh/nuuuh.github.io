@@ -128,6 +128,11 @@
       </tags>
   </entry>
   <entry>
+    <title>condition DDPM</title>
+    <url>/2023/08/24/condition-DDPM/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
+  </entry>
+  <entry>
     <title>OptimalTransport</title>
     <url>/2023/07/27/OptimalTransport/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="Optimal-Transport-OT"><a href="#Optimal-Transport-OT" class="headerlink" title="Optimal Transport (OT)"></a>Optimal Transport (OT)</h1><h2 id="Definition"><a href="#Definition" class="headerlink" title="Definition"></a>Definition</h2>]]></content>
@@ -139,10 +144,5 @@
         <tag>Statistics</tag>
         <tag>Optimal Transport</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>condition DDPM</title>
-    <url>/2023/08/24/condition-DDPM/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
   </entry>
 </search>
